@@ -9,4 +9,9 @@ Like:
 * Bulleted lists
 * and *bold* text
 * maybe even _italics_
+* and some inline `code` ?
+
+
+
+
  
